@@ -16,8 +16,8 @@ var friendMatch = [
     photo: "https://media1.giphy.com/media/QLvRBqfLXCphu/giphy.gif?cid=790b76115cf6db8c37524c3177f76669&rid=giphy.gif",
     scores: ["3", "2", "3", "1", "1"]
   },{
-    name: "Eminem",
-    photo: "https://media0.giphy.com/media/wTfk6aw4ffag0/giphy.gif?cid=790b76115cf6ddfd644c306849b22096&rid=giphy.gif",
+    name: "Emma Watson",
+    photo: "https://media1.giphy.com/media/fvqITkChKLUys/giphy.gif?cid=790b76115cf6dc7a7733644977a9c3f3&rid=giphy.gif",
     scores: ["2", "2", "1", "3", "3"]
   },
 
